@@ -1,0 +1,31 @@
+table {
+    width: 50%;
+    margin: 30px auto;
+    border-collapse: collapse;
+    /*combina los bordes de las celdas*/
+    text-align: left;
+    border: 5px solid #F21E73;
+    border-radius: 25px;
+}
+
+th {
+    border: 5px solid #F21E73;
+}
+
+tr {
+    border: 5px solid #F21E73;
+}
+
+div {
+    width: 50%;
+    margin: 30px auto;
+    border-collapse: collapse;
+    /*combina los bordes de las celdas*/
+    text-align: center;
+    border: 5px solid #F21E73;
+    border-radius: 25px;
+}
+
+.arriba:hover {
+    background: #F21E73;
+}
